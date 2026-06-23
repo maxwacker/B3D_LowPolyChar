@@ -12,4 +12,12 @@ https://www.youtube.com/watch?v=Gqe5xeXjofo
     Face select borth neck base quads
     extrude and grab to vertical
     
+## 01:00 Neck adjustment
+    Plan neck base : S Z 0
+    Neck front adjustment
+    
+## 01:55 Torso Top
+    Readjust & Extrude
+    
+## 02:00
     

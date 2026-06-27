@@ -112,3 +112,7 @@ https://www.youtube.com/watch?v=3JT7cCz_Yi0
 ## 02:50 Rounding fingers
     Shift-Alt Select 'corner' Edge, Gx2 to move along perpendicular edge direction
      
+## 03:00 Wrist
+    <Had Resacle whole mode to increase hand thikness>
+    Select 4 inner (quad) faces and extrude (rem : seme face count as arm for bridging)
+    Adjust both side egdes

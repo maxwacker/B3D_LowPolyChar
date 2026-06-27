@@ -41,3 +41,21 @@ https://www.youtube.com/watch?v=Gqe5xeXjofo
     Then move down breath loop a bit
     
 Readjust Neck a bit
+
+# Part 2: Few  Usefull tools
+https://www.youtube.com/watch?v=XCkYRCCTbzk
+
+## 00:00 Delete half, redone by mirroring
+    Face select remove half
+    Remove faces
+    Add Mirro modifier
+    with clipping
+    (could be done quicker with automirro addon
+    
+## 01:20 Loop Tools
+    Shearch LoopTools in AddOns <It's in Extensions now>
+    Use it by
+        1- Add extra loop to shoulder/breath (the one finally deleted in part 1)
+        2- Select Arms start faces, RMD Menu / LoopTolls / Circle 
+        
+## 01:35 Extrude Arms

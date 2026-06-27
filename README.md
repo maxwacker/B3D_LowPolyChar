@@ -116,3 +116,8 @@ https://www.youtube.com/watch?v=3JT7cCz_Yi0
     <Had Resacle whole mode to increase hand thikness>
     Select 4 inner (quad) faces and extrude (rem : seme face count as arm for bridging)
     Adjust both side egdes
+    
+    Make wirst circle with LoopTools
+    Rescale bigger X
+
+## 03:35 Join Hand to body

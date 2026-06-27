@@ -91,5 +91,9 @@ https://www.youtube.com/watch?v=3JT7cCz_Yi0
     Fingers tips face selected
     PropEdit 'Connected only'
     
-## 02:00 global Refinment 
+## 02:00 Finger Refinment 
     Add Edge Loop arount
+    Select inside edge of fingers tips.
+    Double G to refine thumbs (while tracking adjacent edges direction)
+    
+    Move Middle inner face 

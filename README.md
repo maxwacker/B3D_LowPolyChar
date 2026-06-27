@@ -61,3 +61,11 @@ https://www.youtube.com/watch?v=XCkYRCCTbzk
 ## 01:35 Extrude Arms
 
 # Part3 : Hands, Legs and feet
+https://www.youtube.com/watch?v=3JT7cCz_Yi0
+
+## Hand as new Object
+    Shift-A cube
+    Edit Mode, Use LooCut to 3 & 2 on X & Z axis
+    
+## 00:30 Shaping Palm
+    Edge selection

@@ -78,3 +78,10 @@ https://www.youtube.com/watch?v=3JT7cCz_Yi0
     Now Change 'Transform Pivot Point' to individual origin
     Then scale the newly created faces
     And move them up a bit
+    
+## 01:20 Extruding Fingers
+    Extrude on Z
+    Adjust tips by Z 0
+    Adjust each fingers 1by1
+    
+    

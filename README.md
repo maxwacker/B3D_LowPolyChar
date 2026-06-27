@@ -97,3 +97,11 @@ https://www.youtube.com/watch?v=3JT7cCz_Yi0
     Double G to refine thumbs (while tracking adjacent edges direction)
     
     Move Middle inner face 
+    
+## 02:15 Fingers thickness refinement
+    Select finger top faces
+ /!\Then extend selection by CTRL-Numpad+
+    Rescale XY only (by shift-Z) 
+    
+    Select Center edge loop of each individual finger
+    Rescale XY only (schift-Z) 

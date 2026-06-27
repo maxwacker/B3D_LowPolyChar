@@ -84,4 +84,7 @@ https://www.youtube.com/watch?v=3JT7cCz_Yi0
     Adjust tips by Z 0
     Adjust each fingers 1by1
     
+## 01:35 Fingers Segments
+    Add 2 loopcuts for each finger
     
+## 01:45 Finger curving

@@ -59,3 +59,5 @@ https://www.youtube.com/watch?v=XCkYRCCTbzk
         2- Select Arms start faces, RMD Menu / LoopTolls / Circle 
         
 ## 01:35 Extrude Arms
+
+# Part3 : Hands, Legs and feet

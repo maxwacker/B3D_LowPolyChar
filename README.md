@@ -19,10 +19,25 @@ https://www.youtube.com/watch?v=Gqe5xeXjofo
     
 ## 01:55 Torso Top
     Readjust & Extrude
-    
-## 02:00 Torso Bottom
     Extrude again (2x)
     
-## 02:05 Shouder Refine
+## 02:05 Shoulder Refine
     Add LoopCut
+    Select bottom resulting face loop
+    Resscale width (S X) 
+    Move Center vert a bit up
+    <Fix Shoulder>
+    Add another LoopCut down Breast
     
+## 02:25 Torso Bottom
+    Extrude for hip
+    Elarge on width (S X)
+
+## 02:35 Side Back Bone curve  
+    Select belly face loop
+    
+## 02:40 Finally remove (dissolve) Sub breath loop
+    Alt-Select, X Dissolve
+    Then move down breath loop a bit
+    
+Readjust Neck a bit

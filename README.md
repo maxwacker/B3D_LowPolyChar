@@ -105,3 +105,6 @@ https://www.youtube.com/watch?v=3JT7cCz_Yi0
     
     Select Center edge loop of each individual finger
     Rescale XY only (schift-Z) 
+    
+## 02:25 Thumb
+    Difficult : Extrusion Grab, Rotate

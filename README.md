@@ -108,3 +108,7 @@ https://www.youtube.com/watch?v=3JT7cCz_Yi0
     
 ## 02:25 Thumb
     Difficult : Extrusion Grab, Rotate
+    
+## 02:50 Rounding fingers
+    Shift-Alt Select 'corner' Edge, Gx2 to move along perpendicular edge direction
+     

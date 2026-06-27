@@ -88,3 +88,8 @@ https://www.youtube.com/watch?v=3JT7cCz_Yi0
     Add 2 loopcuts for each finger
     
 ## 01:45 Finger curving
+    Fingers tips face selected
+    PropEdit 'Connected only'
+    
+## 02:00 global Refinment 
+    Add Edge Loop arount

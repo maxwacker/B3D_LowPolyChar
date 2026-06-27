@@ -68,4 +68,13 @@ https://www.youtube.com/watch?v=3JT7cCz_Yi0
     Edit Mode, Use LooCut to 3 & 2 on X & Z axis
     
 ## 00:30 Shaping Palm
-    Edge selection
+    Edge selection, Reshpae top (fingers side)
+    Rescale bottom faces (wrist side)
+    
+    Select 4 top faces (fingers bases)
+    RMB-Menu / Extrude individual Faces
+    Let new faces fit original one by RMB validation
+    
+    Now Change 'Transform Pivot Point' to individual origin
+    Then scale the newly created faces
+    And move them up a bit

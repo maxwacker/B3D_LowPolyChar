@@ -143,3 +143,5 @@ https://www.youtube.com/watch?v=3JT7cCz_Yi0
 
 ## 05:10 Foot
 
+## 05:50 Hand Join
+

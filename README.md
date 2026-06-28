@@ -135,3 +135,10 @@ https://www.youtube.com/watch?v=3JT7cCz_Yi0
 
 ## 04:45 Extend Legs
     Move down <not extruding>
+    Rescale
+    Same Process again :
+        Grab to Long Legs then loopCut resacle for shaping 
+        
+## 05:00 Adjusting side
+
+## 05:10 Legs

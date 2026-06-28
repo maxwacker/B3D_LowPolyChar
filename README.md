@@ -127,3 +127,11 @@ https://www.youtube.com/watch?v=3JT7cCz_Yi0
     Add 2 LoopCut
     Extrude / Reshape
     Tricks Extruce unaligned resulting faces and Exclude then SZ realign
+    
+    LoopTool/Circle the legs hexagon
+    Rotate bit to get hexagon axix on body axis
+    
+## 04:35 Back 
+
+## 04:45 Extend Legs
+    Move down <not extruding>

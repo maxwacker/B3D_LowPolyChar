@@ -123,3 +123,7 @@ https://www.youtube.com/watch?v=3JT7cCz_Yi0
 ## 03:35 Join Hand to body
     Select Hnad, then Body, Then CTRL-J
     
+## 04:00 Legs
+    Add 2 LoopCut
+    Extrude / Reshape
+    Tricks Extruce unaligned resulting faces and Exclude then SZ realign

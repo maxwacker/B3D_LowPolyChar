@@ -121,3 +121,5 @@ https://www.youtube.com/watch?v=3JT7cCz_Yi0
     Rescale bigger X
 
 ## 03:35 Join Hand to body
+    Select Hnad, then Body, Then CTRL-J
+    

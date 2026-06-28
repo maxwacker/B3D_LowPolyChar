@@ -141,4 +141,5 @@ https://www.youtube.com/watch?v=3JT7cCz_Yi0
         
 ## 05:00 Adjusting side
 
-## 05:10 Legs
+## 05:10 Foot
+

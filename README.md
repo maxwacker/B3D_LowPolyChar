@@ -145,3 +145,10 @@ https://www.youtube.com/watch?v=3JT7cCz_Yi0
 
 ## 05:50 Hand Join
 
+## 06:30 Final Tweaks
+    Torso enlargement
+    Head reduce
+    Torso
+    Arms ...
+
+## 06:50 Extra Edge at articulations for better deform in animation

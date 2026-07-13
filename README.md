@@ -201,3 +201,9 @@ Add Armature
     Front View : Duplicate hip & rotate 180
     Side View : Extrude more 
     Front : Adjuct bones to center of leg
+    
+## 02:15 Parenting leg to hip
+    Bone can parent/chilg relation even if not colose ro each other
+    Select leg 1st (top) bone,  shift-select hip (remmber last is parent)
+    Cmd-P (Parent) KeepOffset 
+    Check dotted line goes from parent-tip to child-base

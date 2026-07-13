@@ -185,6 +185,12 @@ Add Armature
     Side View Adjust Hip bone
 
 ## 1:17 : Spine by Extrudingnew bone from Hip
-    Each new bone being a child of extruded one
+    Each new bone being a child of extruded one.
+    Parent/Child connection : Pose Mode Parent anim affects child  
     
+## 1:35 : Arm bones
+    Front View
     
+### 01:40 Seems bone orientation is important here (but not clear how)
+    CTRL-R on bone to orient bone)
+    <seems bone face should be oriented front>

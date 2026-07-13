@@ -224,3 +224,12 @@ Add Armature
     
     Create tight side :
     Select All bones, RMB-Menu Symmetrize
+    
+## 04:15 IK adjustement
+/!\ Clicking the X at bottom right of viewport will now symmetrize all actions
+
+    Top View, drag elbows back a little (to get a well diefined angle for IK)
+     
+## 04:30 Fingers Riging <NOT DONE>
+
+## 06:50 Armature done

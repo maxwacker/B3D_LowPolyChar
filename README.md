@@ -233,3 +233,16 @@ Add Armature
 ## 04:30 Fingers Riging <NOT DONE>
 
 ## 06:50 Armature done
+    Back to Object mode
+    Select Model, then Armature (MAke sure armature is the active 'yellow' object)
+    CMD-P With Automatic weight
+    A new modifier appears on the model
+    
+    
+## 07:25 Armature Pose Mode
+    Select Armature, CTRL-Tab (Pose Mode)
+    Selection/Moving (Rotating) bone now affects the Mesh
+    
+    Test each bone. If something moving weirdly, back to Edit mode on bone
+    
+/!\ EveryTime modifications made on armature, Parenting (Auto-Weight))needs to be reset

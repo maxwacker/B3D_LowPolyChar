@@ -195,4 +195,9 @@ Add Armature
     CTRL-R on bone to orient bone)
     <seems bone face should be oriented front>
 
-## 01:50 : Neck bone
+## 01:50 : Neck bones
+
+## 01:55 : Legs bones
+    Front View : Duplicate hip & rotate 180
+    Side View : Extrude more 
+    Front : Adjuct bones to center of leg

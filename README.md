@@ -165,3 +165,13 @@ https://www.youtube.com/watch?v=3JT7cCz_Yi0
     Add LoopCut and scale it up a bit, Grab it up a bit
     Grab up a bit top shouild edges 
     
+# Part 4 : Rigging & Anim
+https://www.youtube.com/watch?v=a6-rEXUo7-U&t=12s
+
+< Reposition/Rescale/ApplyTransfo>
+Add Armature
+
+## 00:19 Make Armature always visibile (Front)
+    Armature Panel / ViewportDisplay / Front
+    
+## 0:45 Reduce 1st bone

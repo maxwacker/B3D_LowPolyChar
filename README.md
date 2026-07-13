@@ -216,3 +216,11 @@ Add Armature
     Root
     
     Make Root parent of Hip (Keep Offset)
+    
+## 03:08 Create right side
+    Select Leg & Arm
+    RMB-Menu / Names / Auto-Name Left/Right 
+    <Not needed since i named them .L my self>
+    
+    Create tight side :
+    Select All bones, RMB-Menu Symmetrize

@@ -194,3 +194,5 @@ Add Armature
 ### 01:40 Seems bone orientation is important here (but not clear how)
     CTRL-R on bone to orient bone)
     <seems bone face should be oriented front>
+
+## 01:50 : Neck bone

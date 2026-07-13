@@ -152,3 +152,16 @@ https://www.youtube.com/watch?v=3JT7cCz_Yi0
     Arms ...
 
 ## 06:50 Extra Edge at articulations for better deform in animation
+    By beveling : Mid Arm Loop select, Cmd+B
+    One more Loop by LoopCut
+    
+### 07:50 Knees loop cut & adjustment
+    /!\ Move verts along egde : GG (G twice)
+
+### 06:38 Finger articulation refinment 
+    /!\ <NOT DONE>
+    
+### 6:40: Shoulder Refinement
+    Add LoopCut and scale it up a bit, Grab it up a bit
+    Grab up a bit top shouild edges 
+    

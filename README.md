@@ -246,3 +246,10 @@ Add Armature
     Test each bone. If something moving weirdly, back to Edit mode on bone
     
 /!\ EveryTime modifications made on armature, Parenting (Auto-Weight))needs to be reset
+
+## 08:10 Fixing 'Side of Torso moving with arm'
+    To Fix, we'll add extra bone : Duplicate Shoulder
+    Reduce and orient forward
+    Reset Model->Armature Parenting (with auto-weight) 
+    
+## 09:10 Time to animate

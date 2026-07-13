@@ -174,4 +174,17 @@ Add Armature
 ## 00:19 Make Armature always visibile (Front)
     Armature Panel / ViewportDisplay / Front
     
-## 0:45 Reduce 1st bone
+## 0:45 Reduce 1st bone 
+    0.8m
+    Duplicate : Select whole bone, shift-D
+    Move duplicated to ass  bottom level.
+    
+    Original left at ground (root bone)
+    New one is 'Hip' Bone
+    
+    Side View Adjust Hip bone
+
+## 1:17 : Spine by Extrudingnew bone from Hip
+    Each new bone being a child of extruded one
+    
+    

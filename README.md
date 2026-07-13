@@ -207,3 +207,12 @@ Add Armature
     Select leg 1st (top) bone,  shift-select hip (remmber last is parent)
     Cmd-P (Parent) KeepOffset 
     Check dotted line goes from parent-tip to child-base
+    
+## 02:40 Bones naming
+    Select hip bone, go to bone panel, name it 'Hip'
+    Spine1, Spine2, Neck, Head
+    Shoulder.L, Arm.L, Forearm.L, Hand.l
+    Leg.L, Knee.L, Shin.L, Foot.L
+    Root
+    
+    Make Root parent of Hip (Keep Offset)

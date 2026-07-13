@@ -253,3 +253,14 @@ Add Armature
     Reset Model->Armature Parenting (with auto-weight) 
     
 ## 09:10 Time to animate
+    In Blender animations are made in Pose Mode
+    In this mode, we can select bone, move (rotate) them like in Edit Mode.
+    But in Pose Mode these changes are not permanent: By Atl G/R/S we can set bone back to its defaults postion
+     
+### 10:45 Timeline
+    Adjust Pose
+    Select all bone (in Pose Mode)
+    I (insert) Rotation
+    
+    Move Anim Cursor to Frame 10, Mirror Copy Pose
+    Move Anim Cursor to Frame 20, Copy Frame 1 Pose
